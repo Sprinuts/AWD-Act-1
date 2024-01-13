@@ -82,7 +82,7 @@ body{
     }
 
     &.notify::before{
-        animation: bell is ease-in-out;
+        animation: bell 1s ease-in-out;
     }
 }
 
